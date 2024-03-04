@@ -13,4 +13,14 @@
   </a>
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=tungtrieu0801&style=flat-square&color=blue" alt=""/>
+<div align = "center">
+  <img src="https://komarev.com/ghpvc/?username=tungtrieu0801&style=flat-square&color=blue" alt=""/>
+  <h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3k3aWEyMzAzNHdnb2E0bGV3ZW8zaGk3MW93ZzI1MmVxZjVoeHdtMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dlMIwDQAxXn1K/giphy.gif" width="1100" height="400"/>
+</div>
